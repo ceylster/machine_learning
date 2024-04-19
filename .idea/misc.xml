@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Functions_conditions_loop_comprehensions" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Functions_conditions_loop_comprehensions" project-jdk-type="Python SDK" />
+</project>
